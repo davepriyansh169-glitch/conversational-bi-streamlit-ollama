@@ -89,14 +89,6 @@ http://localhost:8501
 - Count how many students are enrolled in each major
 - Show students who took Database Systems
 
-## Screenshots
-
-Add screenshots here before publishing to GitHub:
-
-- Home screen
-- Example query input
-- Generated SQL and results table
-
 ## Future Improvements
 
 - Add query history
